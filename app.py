@@ -57,5 +57,5 @@ if uploaded_file is not None:
 
 
 
-with st.echo():
-	st.write('This project helps predict house price using linear regression')
+# with st.echo():
+# 	st.write('This project helps predict house price using linear regression')

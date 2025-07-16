@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.title("HR EMPLOYEE ATTRITION ANALYSIS")
+st.image("attrition.png", caption="Attrition Image")
 st.badge(
 	"This Application is designed to help predict house price using sample data", 
 	color="blue")

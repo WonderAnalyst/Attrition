@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.title("Welcome to Data Analysis")
+st.title("HR EMPLOYEE ATTRITION ANALYSIS")
 st.badge(
 	"This Application is designed to help predict house price using sample data", 
 	color="blue")
